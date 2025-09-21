@@ -24,10 +24,6 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 - **Cloud & Deployment:** EC2, Render, Vercel
 - **Programming Languages:** JavaScript, TypeScript, C, C++
 
-## Interests
-
-- Backend services
-
 ## Education
 
 - **UFPB (Federal University of Paraíba)** | Partial coursework completed towards a degree in in Computer Engineering  (Jan 2019 - 2022)
